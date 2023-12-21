@@ -20,7 +20,7 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://github.com/flyX099/sileodepiction/blob/main/com.xx.dyhook/Screenshot_01.png"
+                            "url": "https://flyx099.github.io/sileodepiction/com.xx.dyhook/Screenshot_01.png"
                         }
                     ]
                 },
@@ -52,7 +52,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1.4",
+                    "text": "1.1.5",
                     "title": "最新版本"
                 },
                 {
@@ -62,7 +62,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2023 年 12 月 19 日",
+                    "text": "2023 年 12 月 21 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -77,13 +77,13 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "1.1.4",
+                    "title": "1.1.5",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "更新了版本号",
+                    "markdown": "关注加入对方主页二次确认\n连播增加首页连播(二选一)\n尝试去除对方主页视频广告\n优化广告视频判断\n其他一些优化",
                     "useRawFormat": true
                 }
             ]
