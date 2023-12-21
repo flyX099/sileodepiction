@@ -1,4 +1,8 @@
 {
+	"class": "DepictionTabView",
+    "headerImage": "",
+    "tintColor": "#FF4455",
+    "minVersion": "0.3",
     "tabs": [
         {
             "class": "DepictionStackView",
