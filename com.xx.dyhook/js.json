@@ -52,7 +52,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1.5",
+                    "text": "1.1.6",
                     "title": "最新版本"
                 },
                 {
@@ -62,7 +62,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2023 年 12 月 21 日",
+                    "text": "2023 年 12 月 27 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -77,13 +77,13 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "1.1.5",
+                    "title": "1.1.6",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "关注加入对方主页二次确认\n连播增加首页连播(二选一)\n尝试去除对方主页视频广告\n优化广告视频判断\n其他一些优化",
+                    "markdown": "增加移除右侧按钮长按功能(可以长按加速) | 增加底部隐藏(开启有说明) | 优化代码",
                     "useRawFormat": true
                 }
             ]
