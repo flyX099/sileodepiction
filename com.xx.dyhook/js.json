@@ -1,5 +1,5 @@
 {
-	"class": "DepictionTabView",
+    "class": "DepictionTabView",
     "headerImage": "",
     "tintColor": "#FF4455",
     "minVersion": "0.3",
@@ -10,8 +10,8 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "自用 首页视频界面双指双击弹出设置UI-或在'我-右上角打开' && 本人刚学一点 有问题请大佬多指教",
-                    "useRawFormat": true
+                    "markdown": "自用 首页视频界面双指双击弹出设置UI | 或在'我-右上角打开'\n\n此插件仅学习交流\n\n有时间限制 介意请卸载\n\n具体功能安装查看(有点多就不写了)\n\n[QQ交流群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Y7V-xpSRPedXHKgIFITvBbcyIKs3jdqa&authKey=kB6L8oSIJbNrEosXCPgJF74iGiCqSwCwAN92Yluu8Oq1iSYgFGnpWMKcphE8esLK&noverify=0&group_code=831229281)\n\n[TG交流群](https://t.me/DouYinHook)",
+                    "useSpacing": true
                 },
                 {
                     "class": "DepictionScreenshotsView",
@@ -52,17 +52,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1.6",
+                    "text": "1.1.7",
                     "title": "最新版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "IOS12+",
+                    "text": "IOS13 +",
                     "title": "支持系统范围"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2023 年 12 月 27 日",
+                    "text": "2024 年 01 月 07 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -76,17 +76,52 @@
             "tabname": "更新日志",
             "views": [
                 {
-                    "class": "DepictionSubheaderView",
-                    "title": "1.1.6",
-                    "useBoldText": true,
-                    "useBottomMargin": false
+                    "class": "DepictionLayerView",
+                    "views": [
+                        {
+                            "class": "DepictionLabelView",
+                            "text": "1.1.7",
+                            "fontWeight": "bold",
+                            "fontSize": 16
+                        },
+                        {
+                            "class": "DepictionLabelView",
+                            "text": "2024-01-07",
+                            "fontWeight": "semibold",
+                            "fontSize": 16,
+                            "textColor": "#696969",
+                            "alignment": 2
+                        }
+                    ]
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "增加移除右侧按钮长按功能(可以长按加速) | 增加底部隐藏(开启有说明) | 优化代码",
-                    "useRawFormat": true
+                    "markdown": "- 增加收藏二次确认\n- 增加文案附近的视图透明度(与文案透明度挂钩)\n- 按钮保存评论区 按钮图片可自定 放入沙盒Documents路径下 命名为dysave.png\n- 增加隐藏视频页面弹幕按钮\n- 移除休息一下弹窗(无设置 默认开启)\n- 增加跳过你可能喜欢的好物\n- 增加首页跳过小游戏视频\n- 增加首页跳过自定少于某点赞值的视频(目前设置最大为1000)\n- 增加小程序激励视频跳过(测试功能 无效请关闭)"
+                },
+                {
+                    "class": "DepictionLayerView",
+                    "views": [
+                        {
+                            "class": "DepictionLabelView",
+                            "text": "1.1.6",
+                            "fontWeight": "bold",
+                            "fontSize": 16
+                        },
+                        {
+                            "class": "DepictionLabelView",
+                            "text": "2023-12-27",
+                            "fontWeight": "semibold",
+                            "fontSize": 16,
+                            "textColor": "#696969",
+                            "alignment": 2
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- 增加移除右侧按钮长按功能(可以长按加速)\n- 增加底部隐藏(开启有说明)"
                 }
             ]
         }
-    ],
+    ]
 }
