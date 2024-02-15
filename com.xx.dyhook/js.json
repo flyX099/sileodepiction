@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "自用 首页视频界面双指双击弹出设置UI | 或在'我-右上角打开'\n\n此插件仅学习交流\n\n有时间限制 介意请卸载\n\n具体功能安装查看(有点多就不写了)\n\n[QQ交流群-新](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=4s0QXpiepAyPWO2GA-3fs4sSL6GqM1Wq&authKey=pw0drW4Q11DebqOAanxUAezk1ZIldbu37OkKjFrxlDl8zw9Rg3ANZ%2FATfpUxjYH5&noverify=0&group_code=953743779)\n\n[TG交流群](https://t.me/DouYinHook)",
+                    "markdown": "自用",
                     "useSpacing": true
                 },
                 {
@@ -20,7 +20,7 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://flyx099.github.io/sileodepiction/com.xx.dyhook/Screenshot_01.png"
+                            "url": "http://www.ifyouhook.top/JailBreak/sileodepiction/com.xx.dyhook/Screenshot_01.png"
                         }
                     ]
                 },
@@ -52,7 +52,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1.8",
+                    "text": "1.1.9-1",
                     "title": "最新版本"
                 },
                 {
@@ -62,7 +62,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 01 月 10 日",
+                    "text": "2024 年 02 月 15 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -80,13 +80,13 @@
                     "views": [
                         {
                             "class": "DepictionLabelView",
-                            "text": "1.1.8",
+                            "text": "1.1.9-1",
                             "fontWeight": "bold",
                             "fontSize": 16
                         },
                         {
                             "class": "DepictionLabelView",
-                            "text": "2024-01-10",
+                            "text": "2024-02-15",
                             "fontWeight": "semibold",
                             "fontSize": 16,
                             "textColor": "#696969",
@@ -96,14 +96,14 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- 修复一些问题"
+                    "markdown": "- 修复自己发评论表情无法保存问题\n- 修复偶尔解析保存视频失败的问题\n- 新增隐藏全屏播放(保留点击)\n- 新增移除左侧滑动进入\n- 新增移除左侧进入图标\n- 新增备份恢复还原插件配置\n- 新增清理缓存\n- 尝试解决ipad双击解析视频弹窗闪退(无ipad测试)\n- 优化小程序激励视频跳过\n- 修复一些问题"
                 },
 				{
                     "class": "DepictionLayerView",
                     "views": [
                         {
                             "class": "DepictionLabelView",
-                            "text": "1.1.7-2",
+                            "text": "1.1.8",
                             "fontWeight": "bold",
                             "fontSize": 16
                         },
@@ -119,7 +119,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- 增加收藏二次确认\n- 增加文案附近的视图透明度(与文案透明度挂钩)\n- 按钮保存评论区 按钮图片可自定 放入沙盒Documents路径下 命名为dysave.png\n- 增加隐藏视频页面弹幕按钮\n- 移除休息一下弹窗(无设置 默认开启)\n- 增加跳过你可能喜欢的好物\n- 增加首页跳过小游戏视频\n- 增加首页跳过自定少于某点赞值的视频(目前设置最大为1000)\n- 增加小程序激励视频跳过(测试功能 无效请关闭)\n- 1.1.7-1修复部分闪退\n- 1.1.7-2修复一些问题"
+                    "markdown": "- 增加收藏二次确认\n- 增加文案附近的视图透明度(与文案透明度挂钩)\n- 按钮保存评论区 按钮图片可自定 放入沙盒Documents路径下 命名为dysave.png\n- 增加隐藏视频页面弹幕按钮\n- 移除休息一下弹窗(无设置 默认开启)\n- 增加跳过你可能喜欢的好物\n- 增加首页跳过小游戏视频\n- 增加首页跳过自定少于某点赞值的视频(目前设置最大为1000)\n- 增加小程序激励视频跳过(测试功能 无效请关闭)"
                 },
                 {
                     "class": "DepictionLayerView",
