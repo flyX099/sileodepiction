@@ -52,7 +52,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1.9-1",
+                    "text": "1.2.1",
                     "title": "最新版本"
                 },
                 {
@@ -62,7 +62,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 02 月 15 日",
+                    "text": "2024 年 03 月 26 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -76,6 +76,29 @@
             "tabname": "更新日志",
             "views": [
                 {
+                    "class": "DepictionLayerView",
+                    "views": [
+                        {
+                            "class": "DepictionLabelView",
+                            "text": "1.2.1",
+                            "fontWeight": "bold",
+                            "fontSize": 16
+                        },
+                        {
+                            "class": "DepictionLabelView",
+                            "text": "2024-03-26",
+                            "fontWeight": "semibold",
+                            "fontSize": 16,
+                            "textColor": "#696969",
+                            "alignment": 2
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- 新增部分小功能\n- 对经验板块双击解析支持\n- 修复一些问题 并可能增加一些问题"
+                },
+				{
                     "class": "DepictionLayerView",
                     "views": [
                         {
@@ -121,29 +144,6 @@
                     "class": "DepictionMarkdownView",
                     "markdown": "- 增加收藏二次确认\n- 增加文案附近的视图透明度(与文案透明度挂钩)\n- 按钮保存评论区 按钮图片可自定 放入沙盒Documents路径下 命名为dysave.png\n- 增加隐藏视频页面弹幕按钮\n- 移除休息一下弹窗(无设置 默认开启)\n- 增加跳过你可能喜欢的好物\n- 增加首页跳过小游戏视频\n- 增加首页跳过自定少于某点赞值的视频(目前设置最大为1000)\n- 增加小程序激励视频跳过(测试功能 无效请关闭)"
                 },
-                {
-                    "class": "DepictionLayerView",
-                    "views": [
-                        {
-                            "class": "DepictionLabelView",
-                            "text": "1.1.6",
-                            "fontWeight": "bold",
-                            "fontSize": 16
-                        },
-                        {
-                            "class": "DepictionLabelView",
-                            "text": "2023-12-27",
-                            "fontWeight": "semibold",
-                            "fontSize": 16,
-                            "textColor": "#696969",
-                            "alignment": 2
-                        }
-                    ]
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- 增加移除右侧按钮长按功能(可以长按加速)\n- 增加底部隐藏(开启有说明)"
-                }
             ]
         }
     ]
