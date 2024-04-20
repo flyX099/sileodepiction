@@ -52,7 +52,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.2.1",
+                    "text": "1.2.4",
                     "title": "最新版本"
                 },
                 {
@@ -62,7 +62,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 03 月 26 日",
+                    "text": "2024 年 04 月 20 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -76,6 +76,29 @@
             "tabname": "更新日志",
             "views": [
                 {
+                    "class": "DepictionLayerView",
+                    "views": [
+                        {
+                            "class": "DepictionLabelView",
+                            "text": "1.2.4",
+                            "fontWeight": "bold",
+                            "fontSize": 16
+                        },
+                        {
+                            "class": "DepictionLabelView",
+                            "text": "2024-04-20",
+                            "fontWeight": "semibold",
+                            "fontSize": 16,
+                            "textColor": "#696969",
+                            "alignment": 2
+                        }
+                    ]
+                },
+				{
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- 新增显示播放总时间与进度\n- 修复小程序激励视频跳过失效\n- 修复推荐页连播第二天失效\n- 修复首页连播评论区看图片时自动下一条\n- 对本地解析视频优化\n- 其它的一些问题修复\n- 一些UI调整"
+                },
+				{
                     "class": "DepictionLayerView",
                     "views": [
                         {
