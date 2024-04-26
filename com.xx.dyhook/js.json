@@ -52,7 +52,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.2.5",
+                    "text": "1.2.5-1",
                     "title": "最新版本"
                 },
                 {
@@ -62,7 +62,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 04 月 20 日",
+                    "text": "2024 年 04 月 26 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -80,13 +80,13 @@
                     "views": [
                         {
                             "class": "DepictionLabelView",
-                            "text": "1.2.5",
+                            "text": "1.2.5-1",
                             "fontWeight": "bold",
                             "fontSize": 16
                         },
                         {
                             "class": "DepictionLabelView",
-                            "text": "2024-04-20",
+                            "text": "2024-04-26",
                             "fontWeight": "semibold",
                             "fontSize": 16,
                             "textColor": "#696969",
@@ -96,7 +96,7 @@
                 },
 				{
                     "class": "DepictionMarkdownView",
-                    "markdown": "- 新增显示播放总时间与进度\n- 原生按钮无水印保存(图文保存为视频无效)\n- 单张图现在可以点击保存当前图片\n- 附近美食评论区图片保存\n- 修复小程序激励视频跳过失效(并优化)\n- 修复推荐页连播第二天失效\n- 修复首页连播评论区看图片时自动下一条\n- 对本地解析视频优化\n- 其它的一些问题修复\n- 一些UI调整"
+                    "markdown": "-新增评论区实况图无水印下载\n- 新增修改点赞粉丝数量🤡\n- 新增显示播放总时间与进度(1.2.5-1移除横屏时播放时间显示)\n- 原生按钮无水印保存(图文保存为视频无效)\n- 单张图现在可以点击保存当前图片\n- 附近美食评论区图片保存\n- 修复小程序激励视频跳过失效(并优化)\n- 修复推荐页连播第二天失效\n- 修复首页连播评论区看图片时自动下一条\n- 对本地解析视频优化\n- 其它的一些问题修复\n- 一些UI调整"
                 },
 				{
                     "class": "DepictionLayerView",
