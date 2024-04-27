@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "自用",
+                    "markdown": "自用 - 双指双击首页视频界面打开菜单",
                     "useSpacing": true
                 },
                 {
@@ -20,7 +20,7 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "http://www.ifyouhook.top/JailBreak/sileodepiction/com.xx.dyhook/Screenshot_01.png"
+                            "url": "https://files.catbox.moe/jfjidy.JPG"
                         }
                     ]
                 },
@@ -52,7 +52,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.2.5-1",
+                    "text": "1.2.5-2",
                     "title": "最新版本"
                 },
                 {
@@ -62,7 +62,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 04 月 26 日",
+                    "text": "2024 年 04 月 27 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -76,6 +76,29 @@
             "tabname": "更新日志",
             "views": [
                 {
+                    "class": "DepictionLayerView",
+                    "views": [
+                        {
+                            "class": "DepictionLabelView",
+                            "text": "1.2.5-2",
+                            "fontWeight": "bold",
+                            "fontSize": 16
+                        },
+                        {
+                            "class": "DepictionLabelView",
+                            "text": "2024-04-27",
+                            "fontWeight": "semibold",
+                            "fontSize": 16,
+                            "textColor": "#696969",
+                            "alignment": 2
+                        }
+                    ]
+                },
+				{
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- 尝试修复闪退\n- 一些优化"
+                },
+				{
                     "class": "DepictionLayerView",
                     "views": [
                         {
