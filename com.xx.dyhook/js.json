@@ -52,7 +52,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.2.5-2",
+                    "text": "1.2.6",
                     "title": "最新版本"
                 },
                 {
@@ -62,7 +62,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 04 月 27 日",
+                    "text": "2024 年 05 月 05 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -80,13 +80,13 @@
                     "views": [
                         {
                             "class": "DepictionLabelView",
-                            "text": "1.2.5-2",
+                            "text": "1.2.6",
                             "fontWeight": "bold",
                             "fontSize": 16
                         },
                         {
                             "class": "DepictionLabelView",
-                            "text": "2024-04-27",
+                            "text": "2024-05-05",
                             "fontWeight": "semibold",
                             "fontSize": 16,
                             "textColor": "#696969",
@@ -96,7 +96,7 @@
                 },
 				{
                     "class": "DepictionMarkdownView",
-                    "markdown": "- 尝试修复闪退\n- 一些优化"
+                    "markdown": "- 新增直播间自动点赞(修复单击自动启动的问题)\n- 新增自带按钮图文保存为视频无水印(默认开启)\n- 修复分享评论可能造成的闪退问题\n- 一些优化"
                 },
 				{
                     "class": "DepictionLayerView",
