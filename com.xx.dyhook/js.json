@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "自用 - 双指双击首页视频界面打开菜单",
+                    "markdown": "自用 - 双指双击首页视频界面打开菜单 或 设置内打开菜单",
                     "useSpacing": true
                 },
                 {
@@ -52,7 +52,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.2.6-2",
+                    "text": "2.0.0",
                     "title": "最新版本"
                 },
                 {
@@ -62,7 +62,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 05 月 21 日",
+                    "text": "2024 年 06 月 01 日",
                     "title": "最后更新日期"
                 },
                 {
