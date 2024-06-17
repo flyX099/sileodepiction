@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "自用 - 双指双击首页视频界面打开菜单 或 设置内打开菜单",
+                    "markdown": "自用 - 双指双击首页视频界面打开菜单 或 设置内打开菜单 ---- 无效请打开插件设置 滑到底部点延长",
                     "useSpacing": true
                 },
                 {
@@ -52,7 +52,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0.3",
+                    "text": "2.0.3-1",
                     "title": "最新版本"
                 },
                 {
@@ -62,7 +62,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 06 月 11 日",
+                    "text": "2024 年 06 月 17 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -80,13 +80,13 @@
                     "views": [
                         {
                             "class": "DepictionLabelView",
-                            "text": "1.2.6-2",
+                            "text": "2.0.3-1",
                             "fontWeight": "bold",
                             "fontSize": 16
                         },
                         {
                             "class": "DepictionLabelView",
-                            "text": "2024-05-21",
+                            "text": "2024-06-17",
                             "fontWeight": "semibold",
                             "fontSize": 16,
                             "textColor": "#696969",
@@ -96,7 +96,7 @@
                 },
 				{
                     "class": "DepictionMarkdownView",
-                    "markdown": "- 后续版本更新内容插件内查看"
+                    "markdown": "- 修复部分幸运儿频繁失效问题\n- 解释一下 抖音的问题 不是我的问题"
                 },
 				{
                     "class": "DepictionLayerView",
